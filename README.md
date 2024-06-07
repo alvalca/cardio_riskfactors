@@ -34,7 +34,7 @@ Si deseas replicar el análisis, sigue estos pasos:
 1. Clona el repositorio a tu máquina local:
 
    ```
-   git clone https://github.com/alvalca/riskfactors_cardio.git
+   git clone https://github.com/alvalca/cardio_riskfactors.git
    ```
 
 2. Instala las dependencias necesarias:
